@@ -2,7 +2,7 @@
 ## 目标
 训练营闯关记录
 
-![书生大模型实战营（第三期闯关大挑战）](https://github.com/InternLM/Tutorial)
+[书生大模型实战营（第三期闯关大挑战）](https://github.com/InternLM/Tutorial)
 ![image](https://github.com/user-attachments/assets/93ff2412-777c-4619-812b-0134eb327cf3)
 
 闯关手册：https://aicarrier.feishu.cn/wiki/XBO6wpQcSibO1okrChhcBkQjnsf
